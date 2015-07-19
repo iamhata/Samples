@@ -1,0 +1,1 @@
+Debug: Fri Jul 17 19:02:43 CST 2015, This is a debug message.
